@@ -8,7 +8,7 @@ var timer2;
 var timer3;
 var count1 = 0;
 var count2 = 0;
-var count3 = 0;
+var count3 = 10;
 
 class WeatherAlarmView extends Ui.View {
 
@@ -31,7 +31,7 @@ class WeatherAlarmView extends Ui.View {
     // Called when this View is brought to the foreground. Restore
     // the state of this View and prepare it to be shown. This includes
     // loading resources into memory.
-    function onShow() {
+    function onShow(){
     }
 
     // Update the view
@@ -56,7 +56,7 @@ class WeatherAlarmView extends Ui.View {
     function onHide() {
     }
 
- function callback1() {
+    function callback1() {
         count1 += 1;
         if (count1 > 5){
             var vibes = [];

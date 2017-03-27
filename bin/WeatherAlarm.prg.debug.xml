@@ -42,26 +42,72 @@
 <entry filename="/Users/moulin_f/projets/WeatherAlarmGarmin/source/WeatherAlarmApp.mc" lineNum="14" pc="268436362" symbol="onStop"/>
 <entry filename="/Users/moulin_f/projets/WeatherAlarmGarmin/source/WeatherAlarmApp.mc" lineNum="18" pc="268436365" symbol="getInitialView"/>
 <entry filename="/Users/moulin_f/projets/WeatherAlarmGarmin/source/WeatherAlarmApp.mc" lineNum="19" pc="268436367" symbol="getInitialView"/>
-<entry filename="Rez" lineNum="19" pc="268436405" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="21" pc="268436407" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="22" pc="268436538" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="23" pc="268436590" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="26" pc="268436642" symbol="MainLayout"/>
+<entry filename="/Users/moulin_f/projets/WeatherAlarmGarmin/source/MenuTestMenuDelegate.mc" lineNum="6" pc="268436435" symbol="initialize"/>
+<entry filename="/Users/moulin_f/projets/WeatherAlarmGarmin/source/MenuTestMenuDelegate.mc" lineNum="7" pc="268436437" symbol="initialize"/>
+<entry filename="/Users/moulin_f/projets/WeatherAlarmGarmin/source/MenuTestMenuDelegate.mc" lineNum="10" pc="268436456" symbol="onMenuItem"/>
+<entry filename="/Users/moulin_f/projets/WeatherAlarmGarmin/source/MenuTestMenuDelegate.mc" lineNum="11" pc="268436458" symbol="onMenuItem"/>
+<entry filename="/Users/moulin_f/projets/WeatherAlarmGarmin/source/MenuTestMenuDelegate.mc" lineNum="12" pc="268436469" symbol="onMenuItem"/>
+<entry filename="/Users/moulin_f/projets/WeatherAlarmGarmin/source/MenuTestMenuDelegate.mc" lineNum="13" pc="268436490" symbol="onMenuItem"/>
+<entry filename="/Users/moulin_f/projets/WeatherAlarmGarmin/source/MenuTestMenuDelegate.mc" lineNum="15" pc="268436588" symbol="onMenuItem"/>
+<entry filename="/Users/moulin_f/projets/WeatherAlarmGarmin/source/MenuTestMenuDelegate.mc" lineNum="19" pc="268436613" symbol="onBack"/>
+<entry filename="/Users/moulin_f/projets/WeatherAlarmGarmin/source/MenuTestMenuDelegate.mc" lineNum="20" pc="268436615" symbol="onBack"/>
+<entry filename="/Users/moulin_f/projets/WeatherAlarmGarmin/source/MenuTestDelegate.mc" lineNum="5" pc="268436644" symbol="initialize"/>
+<entry filename="/Users/moulin_f/projets/WeatherAlarmGarmin/source/MenuTestDelegate.mc" lineNum="6" pc="268436646" symbol="initialize"/>
+<entry filename="/Users/moulin_f/projets/WeatherAlarmGarmin/source/MenuTestDelegate.mc" lineNum="9" pc="268436665" symbol="onMenu"/>
+<entry filename="/Users/moulin_f/projets/WeatherAlarmGarmin/source/MenuTestDelegate.mc" lineNum="10" pc="268436667" symbol="onMenu"/>
+<entry filename="/Users/moulin_f/projets/WeatherAlarmGarmin/source/MenuTestDelegate.mc" lineNum="11" pc="268436751" symbol="onMenu"/>
+<entry filename="/Users/moulin_f/projets/WeatherAlarmGarmin/source/AuxMenuDelegate.mc" lineNum="6" pc="268436755" symbol="initialize"/>
+<entry filename="/Users/moulin_f/projets/WeatherAlarmGarmin/source/AuxMenuDelegate.mc" lineNum="7" pc="268436757" symbol="initialize"/>
+<entry filename="/Users/moulin_f/projets/WeatherAlarmGarmin/source/AuxMenuDelegate.mc" lineNum="10" pc="268436776" symbol="onMenuItem"/>
+<entry filename="/Users/moulin_f/projets/WeatherAlarmGarmin/source/AuxMenuDelegate.mc" lineNum="11" pc="268436778" symbol="onMenuItem"/>
+<entry filename="/Users/moulin_f/projets/WeatherAlarmGarmin/source/AuxMenuDelegate.mc" lineNum="12" pc="268436789" symbol="onMenuItem"/>
+<entry filename="/Users/moulin_f/projets/WeatherAlarmGarmin/source/AuxMenuDelegate.mc" lineNum="14" pc="268436824" symbol="onMenuItem"/>
+<entry filename="/Users/moulin_f/projets/WeatherAlarmGarmin/source/AuxMenuDelegate.mc" lineNum="15" pc="268436845" symbol="onMenuItem"/>
+<entry filename="/Users/moulin_f/projets/WeatherAlarmGarmin/source/AuxMenuDelegate.mc" lineNum="19" pc="268436877" symbol="onBack"/>
+<entry filename="/Users/moulin_f/projets/WeatherAlarmGarmin/source/AuxMenuDelegate.mc" lineNum="20" pc="268436879" symbol="onBack"/>
+<entry filename="Rez" lineNum="20" pc="268436908" symbol="initialize"/>
+<entry filename="Rez" lineNum="21" pc="268436910" symbol="initialize"/>
+<entry filename="Rez" lineNum="22" pc="268436928" symbol="initialize"/>
+<entry filename="Rez" lineNum="22" pc="268436981" symbol="initialize"/>
+<entry filename="Rez" lineNum="23" pc="268437033" symbol="initialize"/>
+<entry filename="Rez" lineNum="32" pc="268437086" symbol="initialize"/>
+<entry filename="Rez" lineNum="33" pc="268437088" symbol="initialize"/>
+<entry filename="Rez" lineNum="34" pc="268437106" symbol="initialize"/>
+<entry filename="Rez" lineNum="34" pc="268437159" symbol="initialize"/>
+<entry filename="Rez" lineNum="35" pc="268437211" symbol="initialize"/>
+<entry filename="Rez" lineNum="51" pc="268437264" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="53" pc="268437266" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="54" pc="268437397" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="55" pc="268437449" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="58" pc="268437501" symbol="MainLayout"/>
 </pcToLineNum>
 <symbolTable>
+<entry field="true" id="22" symbol="MainMenuTitle"/>
 <entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="27" symbol="MenuLabel2"/>
+<entry field="true" id="25" symbol="MenuLabel1"/>
 <entry id="11" object="true" symbol="WeatherAlarmApp"/>
 <entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="20" object="true" symbol="MainMenu"/>
 <entry id="8388770" module="true" symbol="Strings"/>
+<entry id="35" symbol="AuxItem2"/>
+<entry id="34" symbol="AuxItem1"/>
+<entry id="33" symbol="Item2"/>
+<entry id="32" symbol="Item1"/>
+<entry field="true" id="24" symbol="Prompt"/>
 <entry id="8389280" method="true" symbol="getInitialView"/>
-<entry id="16" method="true" symbol="MainLayout"/>
+<entry id="21" method="true" symbol="MainLayout"/>
 <entry id="8388769" module="true" symbol="Rez"/>
 <entry id="8389123" method="true" symbol="onShow"/>
 <entry id="8388636" symbol="Attention"/>
 <entry id="8388702" method="true" symbol="initialize"/>
-<entry field="true" id="17" symbol="AppName"/>
-<entry field="true" id="15" symbol="LauncherIcon"/>
+<entry field="true" id="29" symbol="AppName"/>
+<entry field="true" id="23" symbol="HomeTitle"/>
+<entry id="8389080" method="true" symbol="onMenu"/>
+<entry field="true" id="18" symbol="LauncherIcon"/>
+<entry id="12" object="true" symbol="MenuTestMenuDelegate"/>
 <entry id="8388646" symbol="Timer"/>
+<entry id="8389081" method="true" symbol="onBack"/>
 <entry field="true" id="8" symbol="timer3"/>
 <entry field="true" id="8388697" symbol="timer2"/>
 <entry field="true" id="8388696" symbol="timer1"/>
@@ -72,24 +118,31 @@
 <entry id="8389122" method="true" symbol="onLayout"/>
 <entry id="10" object="true" symbol="WeatherAlarmView"/>
 <entry id="8389279" method="true" symbol="onStart"/>
-<entry field="true" id="14" symbol="id_monkey"/>
-<entry id="18" method="true" symbol="callback3"/>
+<entry field="true" id="17" symbol="id_monkey"/>
+<entry id="31" method="true" symbol="callback3"/>
 <entry id="8388701" method="true" symbol="callback2"/>
 <entry id="8388700" method="true" symbol="callback1"/>
-<entry id="13" module="true" symbol="Layouts"/>
+<entry id="8389109" method="true" symbol="onMenuItem"/>
+<entry id="16" module="true" symbol="Layouts"/>
+<entry id="13" object="true" symbol="MenuTestDelegate"/>
+<entry id="14" object="true" symbol="AuxMenuDelegate"/>
 <entry id="8389125" method="true" symbol="onHide"/>
 <entry id="8389345" symbol="rezId"/>
 <entry id="8389063" symbol="identifier"/>
 <entry field="true" id="9" symbol="count3"/>
 <entry field="true" id="8388695" symbol="count2"/>
 <entry field="true" id="8388694" symbol="count1"/>
-<entry id="12" module="true" symbol="Menus"/>
+<entry field="true" id="28" symbol="AuxMenuLabel2"/>
+<entry field="true" id="30" symbol="AuxMenuLabel1"/>
+<entry id="15" module="true" symbol="Menus"/>
+<entry id="19" object="true" symbol="AuxMenu"/>
+<entry field="true" id="26" symbol="AuxMenuTitle"/>
 <entry id="8388772" module="true" symbol="Fonts"/>
 </symbolTable>
 <localVars>
 <entry endPc="268436034" name="string" stackId="2" startPc="268435710"/>
 <entry endPc="268436242" name="vibes" stackId="1" startPc="268436076"/>
-<entry endPc="268436659" name="rez_cmp_local_bitmap_id_monkey" stackId="2" startPc="268436407"/>
+<entry endPc="268437518" name="rez_cmp_local_bitmap_id_monkey" stackId="2" startPc="268437266"/>
 </localVars>
 <annotations/>
 <functions>
@@ -131,6 +184,38 @@
 <documentation/>
 </functionEntry>
 <functionEntry name="getInitialView" parent="WeatherAlarmApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="MenuTestMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onMenuItem" parent="MenuTestMenuDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onBack" parent="MenuTestMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="MenuTestDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onMenu" parent="MenuTestDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="AuxMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onMenuItem" parent="AuxMenuDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onBack" parent="AuxMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="AuxMenu">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="MainMenu">
 <documentation/>
 </functionEntry>
 <functionEntry name="MainLayout" parent="Layouts">

@@ -16,7 +16,7 @@ class WeatherAlarmApp extends App.AppBase {
 
     // Return the initial view of your application here
     function getInitialView() {
-        return [ new WeatherAlarmView() ];
+        return [ new WeatherAlarmView(),new MenuTestDelegate() ];
     }
 
 }
