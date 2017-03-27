@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/moulin_f/projets/WeatherAlarmGarmin/source/WeatherAlarmView.mc" lineNum="5" pc="268435456" symbol="initialize"/>
+<entry filename="/Users/moulin_f/projets/WeatherAlarmGarmin/source/WeatherAlarmView.mc" lineNum="6" pc="268435458" symbol="initialize"/>
+<entry filename="/Users/moulin_f/projets/WeatherAlarmGarmin/source/WeatherAlarmView.mc" lineNum="10" pc="268435477" symbol="onLayout"/>
+<entry filename="/Users/moulin_f/projets/WeatherAlarmGarmin/source/WeatherAlarmView.mc" lineNum="11" pc="268435479" symbol="onLayout"/>
+<entry filename="/Users/moulin_f/projets/WeatherAlarmGarmin/source/WeatherAlarmView.mc" lineNum="17" pc="268435517" symbol="onShow"/>
+<entry filename="/Users/moulin_f/projets/WeatherAlarmGarmin/source/WeatherAlarmView.mc" lineNum="21" pc="268435520" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/WeatherAlarmGarmin/source/WeatherAlarmView.mc" lineNum="23" pc="268435522" symbol="onUpdate"/>
+<entry filename="/Users/moulin_f/projets/WeatherAlarmGarmin/source/WeatherAlarmView.mc" lineNum="29" pc="268435543" symbol="onHide"/>
+<entry filename="/Users/moulin_f/projets/WeatherAlarmGarmin/source/WeatherAlarmApp.mc" lineNum="5" pc="268435546" symbol="initialize"/>
+<entry filename="/Users/moulin_f/projets/WeatherAlarmGarmin/source/WeatherAlarmApp.mc" lineNum="6" pc="268435548" symbol="initialize"/>
+<entry filename="/Users/moulin_f/projets/WeatherAlarmGarmin/source/WeatherAlarmApp.mc" lineNum="10" pc="268435567" symbol="onStart"/>
+<entry filename="/Users/moulin_f/projets/WeatherAlarmGarmin/source/WeatherAlarmApp.mc" lineNum="14" pc="268435570" symbol="onStop"/>
+<entry filename="/Users/moulin_f/projets/WeatherAlarmGarmin/source/WeatherAlarmApp.mc" lineNum="18" pc="268435573" symbol="getInitialView"/>
+<entry filename="/Users/moulin_f/projets/WeatherAlarmGarmin/source/WeatherAlarmApp.mc" lineNum="19" pc="268435575" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="19" pc="268435613" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="21" pc="268435615" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="22" pc="268435746" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="23" pc="268435798" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="26" pc="268435850" symbol="MainLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="9" object="true" symbol="WeatherAlarmApp"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="14" method="true" symbol="MainLayout"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="15" symbol="AppName"/>
+<entry field="true" id="13" symbol="LauncherIcon"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8389065" symbol="locY"/>
+<entry id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8" object="true" symbol="WeatherAlarmView"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="12" symbol="id_monkey"/>
+<entry id="11" module="true" symbol="Layouts"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8389345" symbol="rezId"/>
+<entry id="8389063" symbol="identifier"/>
+<entry id="10" module="true" symbol="Menus"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435867" name="rez_cmp_local_bitmap_id_monkey" stackId="2" startPc="268435615"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="WeatherAlarmView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="WeatherAlarmView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="WeatherAlarmView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="WeatherAlarmView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="WeatherAlarmView">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="WeatherAlarmApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="WeatherAlarmApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="WeatherAlarmApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="WeatherAlarmApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>
